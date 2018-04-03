@@ -1,2 +1,2 @@
-# stockchain
+# Stockchain
 a chain of stocks
