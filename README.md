@@ -1,2 +1,2 @@
 # Stockchain
-a chain of stocks
+A chain of stocks?
